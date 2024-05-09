@@ -1,0 +1,33 @@
+body {
+  background-color: moccasin;
+
+  .container {
+    margin: 0 10em;
+    padding: 2em 10em;
+    background-color: white;
+
+    h1 {
+      font-size: 2.5em;
+      text-align: center;
+      margin: 1em auto;
+    }
+
+    .section {
+      border-top: solid 2pt black ;
+      padding: 1em;
+
+      h2 {
+        font-size: 1.7em;
+      }
+
+      p {
+        text-align: justify;
+      }
+
+      img {
+        height: 100%;
+        width: 100%;
+      }
+    }
+  }
+}
